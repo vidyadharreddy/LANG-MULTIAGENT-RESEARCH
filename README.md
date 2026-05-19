@@ -1,2 +1,4 @@
 # LANG-MULTIAGENT-RESEARCH
 LANG-MULTIAGENT-RESEARCH 
+
+Pip install -r requirements.txt
